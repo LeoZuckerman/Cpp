@@ -66,7 +66,7 @@ Square(int a) { width=a;}
 int main()
 {
 
-Rectangle rec(6,4);
+Rectangle rec(4,4);
 float a1=rec.area();
 Square sq(4);
 float a2= sq.area();
