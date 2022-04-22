@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Test_Mini_P.h
+iostream
+-
+string
+-
+
+/home/lzuckerm/projects/BookShop/Test_Mini_P.cpp
+iostream
+-
+string
+-
+Test_Mini_P.h
+/home/lzuckerm/projects/BookShop/Test_Mini_P.h
+vector
+-
+

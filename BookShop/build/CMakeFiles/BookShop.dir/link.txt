@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/BookShop.dir/Test_Mini_P.cpp.o  -o BookShop 
